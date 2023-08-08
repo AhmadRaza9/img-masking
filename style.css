@@ -11,7 +11,9 @@ section {
   background: url(bg.jpg);
   background-position: bottom;
   -webkit-mask-image: url(image-mask.svg);
+  -webkit-mask-image: url(image-mask-after.svg);
   mask-image: url(image-mask.svg);
+  mask-image: url(image-mask-after.svg);
   -webkit-mask-size: 50%;
   mask-size: 70%;
   -webkit-mask-repeat: no-repeat;
